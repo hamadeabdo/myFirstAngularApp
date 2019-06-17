@@ -1,0 +1,47 @@
+
+{
+
+  "tasks": [
+      {
+        id: 1,
+        name: "Shoping",
+        description: "Need to buy some food for the cat ",
+        finished: false,
+        type: "private"
+      },
+      {
+        id: 2,
+        name: "Finishing the webpage",
+        description: "The client need to see something from the website",
+        finished: false,
+        type: "work"
+      },
+      {
+        id: 3,
+        name: "Call your sister",
+        description: "Its your sister birthday ",
+        finished: false,
+        type: "private"
+      },
+      {
+        id: 4,
+        name: "House party",
+        description: "Meet your roomate and talk about the party",
+        finished: false,
+        type: "event"
+      },
+      {
+        id: 5,
+        name: "cleaning the aquarium",
+        description: "Cut the plants and change half of the water ",
+        finished: false,
+        type: "private"
+      },
+      {
+        id: 6,
+        name: "Meet Matilda",
+        description: "Meet your roomate and go to shopping",
+        finished: false,
+        type: "private"
+      }
+    ];
